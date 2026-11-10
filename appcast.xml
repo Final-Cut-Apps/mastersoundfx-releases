@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Master Sound FX</title>
+        <item>
+            <title>Master Sound FX 1.0.0</title>
+            <pubDate>Wed, 11 Nov 2026 09:32:11 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Primeira versão do Master Sound FX.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/mastersoundfx-releases/releases/download/v1.0.0/MasterSoundFX-1.0.0.zip" sparkle:edSignature="8POSxyUnZpulKpRolMbvX5n007DoxGlerLEAO+1cct9L706NJiUhCNg041IEjeM0Tgo50fVv8jcctyiiTh1AAQ==" length="44742695" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
