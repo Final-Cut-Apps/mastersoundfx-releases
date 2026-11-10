@@ -3,6 +3,16 @@
     <channel>
         <title>Master Sound FX</title>
         <item>
+            <title>Master Sound FX 1.1.0</title>
+            <pubDate>Wed, 11 Nov 2026 11:17:06 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Arraste músicas e efeitos para dentro do app ou do painel do Final Cut, do Finder ou do navegador do Final Cut.</li><li>Se o som já está na biblioteca, o app não copia de novo: só mostra onde ele está.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/mastersoundfx-releases/releases/download/v1.1.0/MasterSoundFX-1.1.0.zip" sparkle:edSignature="bKBmS1SCIwIEn/dg8rWe8noWDBxZswx3EH35rI2F/bQq7YHGmeHlkAIhgf2Oer0J+s/GdFXFRuPBwk78C0B9Bg==" length="44862056" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Master Sound FX 1.0.0</title>
             <pubDate>Wed, 11 Nov 2026 09:32:11 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
