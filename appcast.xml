@@ -3,6 +3,16 @@
     <channel>
         <title>Master Sound FX</title>
         <item>
+            <title>Master Sound FX 1.2.0</title>
+            <pubDate>Sat, 28 Nov 2026 13:48:50 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Filtros de música: escolha o estilo e o instrumento para achar a música certa, e marque mais de um em cada.</li><li>A mesma música aparece em todos os estilos que ela tem, como na Artlist. O app lê o que o site escreve dentro do arquivo e, quando o arquivo não diz, ouve a música.</li><li>Botão direito numa música › Etiquetas…: ponha ou tire estilos e instrumentos.</li><li>Apagar: com o botão direito, apague um som, uma pasta sua, uma categoria ou um estilo inteiro.</li><li>Minhas pastas: crie pastas suas de músicas e efeitos, no app, no painel do Final Cut e nos seus outros Macs.</li><li>Começar do zero, em Ajustes › Biblioteca.</li><li>Arraste os sons também para a timeline do Premiere e do DaVinci Resolve.</li><li>Rádio / Telefone soa como rádio de novo, e Abrir espaço para a voz deixa a música 10 dB mais baixa.</li><li>O app não abre mais a Mesa, os Documentos e os Downloads sozinho: você escolhe as pastas em Ajustes › Captura.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/mastersoundfx-releases/releases/download/v1.2.0/MasterSoundFX-1.2.0.zip" sparkle:edSignature="8T96CQN1IssS5IRqMCO+OVEH6JYlZypRWctFqREJ8AW1ysmju/RFs//JPCBmy2kkRAcO7TPnK4shNxWGjZSRAQ==" length="45772264" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Master Sound FX 1.1.0</title>
             <pubDate>Wed, 11 Nov 2026 11:17:06 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
